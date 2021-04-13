@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 13 2021 15:38:35 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/Header/index.tsx
+
+
+Created files:
+* .autogit/logs/log-13-3-2021-12-27-5.txt
+
+
+Deleted files:
+
+
+Renamed files:
