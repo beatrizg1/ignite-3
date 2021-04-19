@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 19 2021 15:38:00 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-19-3-2021-15-6-31.txt
+
+
+Deleted files:
+
+
+Renamed files:
