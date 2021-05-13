@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu May 13 2021 10:27:54 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/hooks/useCart.tsx
+
+
+Created files:
+* .autogit/logs/log-13-4-2021-9-55-18.txt
+
+
+Deleted files:
+
+
+Renamed files:
